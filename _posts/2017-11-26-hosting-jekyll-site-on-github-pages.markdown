@@ -78,3 +78,5 @@ Hosting a Jekyll site on Github pages is pretty easy. Here's what I had to do to
     ```
 
 10. Now we can go to our Github Pages site followed by the name of the repository and see our new site!
+
+> Credit: The code above has been adapted from the instructions given in a video by the Giraffe Academy. Visit their YouTube channel for plenty of informative videos on a range of subjects including Jekyll [Giraffe Academy](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw)
