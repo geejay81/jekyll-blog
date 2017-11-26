@@ -9,3 +9,17 @@ I've created this site as a diary about some of the things I am working on in th
 I'm hoping by keeping this diary, it'll serve as a reminder of solutions I've found to recurring issues I have. 
 
 I was really interested to have a look at Jekyll so I've decided to build this site using that in the hope that I'll pick up quite a lot of knowledge about it.
+
+Subjects here are likely to include:
+* Angular
+* Animations
+* Bootstrap
+* CSS
+* Git
+* Github
+* HTML
+* JavaScript
+* Jekyll
+* React
+* SQL
+* TypeScript
