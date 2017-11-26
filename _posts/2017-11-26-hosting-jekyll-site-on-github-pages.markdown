@@ -12,11 +12,11 @@ Hosting a Jekyll site on Github pages is pretty easy. Here's what I had to do to
 
 2. Next, we will edit the _config.yml file. Change the baseurl value to the same name as your Github repository. Here I have changed mine to jekyll-blog as this is the name of my repository.
 
-``` yaml
-baseurl: "jekyll-blog"
-```
+    ``` yaml
+    baseurl: "jekyll-blog"
+    ```
 3. Now we will initialise our local git repository. When running the command below, make sure that you are in the root directory of you Jekyll site:
 
-``` git
-git init
-```
+    ``` git
+    git init
+    ```
